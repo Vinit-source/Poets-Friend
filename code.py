@@ -5,9 +5,9 @@ from nltk.corpus import wordnet
 
 #Step 1 : Query google to find relevant site
 # get the API KEY here: https://developers.google.com/custom-search/v1/overview
-API_KEY = "AIzaSyDkZoT8YqNLbtVxTpFgmwwfvvFpDA-AGY4"
+API_KEY = "YOUR-API-KEY"
 # get your Search Engine ID on your CSE control panel
-SEARCH_ENGINE_ID = "011904624176882905713:wjs1rvqkkw0"
+SEARCH_ENGINE_ID = "YOUR-EARCH-ENGINE-ID"
 
 # First Word
 rhymeWord = input("Please input the rhyming word:")
